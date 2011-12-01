@@ -1,0 +1,23 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+.sass-cache/
+.bundle
+
+#Webstorm & Rubymine files
+*.idea
+.idea
+.idea/
+
+#Rails Heroku and other bits to ignore
+*.sqlite3
+db/*.sqlite3
+public/system/*
+.bundle
+log/*.log
+tmp/**/*
+tmp/*
+doc/api
+doc/app
+*.swp
+*~

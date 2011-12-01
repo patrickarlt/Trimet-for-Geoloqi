@@ -1,0 +1,1 @@
+This application is a bus stop autodetector for Geoloqi. 
